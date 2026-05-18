@@ -2,3 +2,4 @@ streamlit
 matplotlib
 PyPDF2
 scikit-learn
+reportlab
